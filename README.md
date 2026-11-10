@@ -66,3 +66,14 @@
 ♡ Feito com carinho ♡
 
 </div>
+
+
+
+## ୨ৎ Minha jornada no GitHub
+
+<div align="center">
+
+![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=sarahrocini&bg_color=FFF7FA&color=B7839F&line=F4BFD2&point=DCC6E8&area=true&area_color=FADCE8&hide_border=true&custom_title=Minha%20Jornada%20no%20GitHub)
+
+</div>
+
