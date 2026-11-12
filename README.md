@@ -3,7 +3,7 @@
 
 # ⋆˚🪻 Olá, eu sou a Sarah Rocini! 🪻˚⋆
 
-### 💻 Software Development Student
+### 💻 Software Development Student ⋆.˚✮
 
 ♡ Transformando ideias em código ♡
 
@@ -11,7 +11,7 @@
 
 ---
 
-## ୨ৎ Sobre mim
+## ♡ Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas no SENAI
 - 📍 São Paulo, Brasil
@@ -21,7 +21,7 @@
 
 ---
 
-## ୨ৎ Tecnologias e Ferramentas
+## ☆ Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## ୨ৎ Minhas Estatísticas
+## ♡ Minhas Estatísticas
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-## ୨ৎ Onde me encontrar
+## ⋆⋅𖤓⋅⋆ Onde me encontrar ⋆⋅𖤓⋅⋆
 
 [![GitHub](https://img.shields.io/badge/GitHub-sarahrocini-E8A0BF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarahrocini)
 
@@ -69,7 +69,7 @@
 
 ---
 
-## ୨ৎ Minha jornada no GitHub
+## ☆ Minha jornada no GitHub
 
 <div align="center">
 
