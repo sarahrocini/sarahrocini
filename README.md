@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ⋆˚🌷 Olá, eu sou a Sarah Rocini! 🌷˚⋆
+# ⋆˚🪻 Olá, eu sou a Sarah Rocini! 🪻˚⋆
 
 ### 💻 Software Development Student
 
@@ -17,7 +17,7 @@
 - 📍 São Paulo, Brasil
 - 💻 Atualmente estudando HTML, CSS e JavaScript
 - 🎨 Apaixonada por tecnologia, design e criatividade
-- 🌷 Sempre aprendendo e evoluindo!
+- 💐 Sempre aprendendo e evoluindo!
 
 ---
 
@@ -41,9 +41,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahrocini&show_icons=true&theme=transparent&title_color=D988B9&icon_color=D988B9&text_color=D988B9&border_color=F8BBD0)
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=sarahrocini&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=B7839F&text_color=B7839F&icon_color=F4BFD2"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahrocini&layout=compact&title_color=D988B9&text_color=D988B9&border_color=F8BBD0)
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarahrocini&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=B7839F&text_color=B7839F"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sarahrocini&theme=default&ring=E8A0BF&fire=D988B9&currStreakLabel=D988B9&border=F8BBD0)
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-🌸 Obrigada pela visita! 🌸
+🎀 Obrigada pela visita! 🎀
 
 ![Visitantes](https://komarev.com/ghpvc/?username=sarahrocini&color=E8A0BF&style=flat-square&label=Visitantes)
 
@@ -67,7 +67,7 @@
 
 </div>
 
-
+---
 
 ## ୨ৎ Minha jornada no GitHub
 
@@ -76,4 +76,3 @@
 ![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=sarahrocini&bg_color=FFF7FA&color=B7839F&line=F4BFD2&point=DCC6E8&area=true&area_color=FADCE8&hide_border=true&custom_title=Minha%20Jornada%20no%20GitHub)
 
 </div>
-
